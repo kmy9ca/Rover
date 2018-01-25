@@ -219,4 +219,5 @@ while len(UsedSpaces) < TotalSpaces:
 
 print(rov1str)
 print(rov2str)
+print('\n')
 #print (UsedSpaces)
