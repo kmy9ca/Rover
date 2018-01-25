@@ -84,6 +84,8 @@ for i in rov1Path:
         print("Invalid instruction given.")
 Rover1.path = rov1Path
 
+print('\n')
+
 ############# TURTLE ####################
 Turtle1 = turtle.Turtle()
 Turtle1.setposition(Rover1.xPos,Rover1.yPos)
